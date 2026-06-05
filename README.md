@@ -2,7 +2,7 @@
 ### 🏴‍☠️ HACKS 
 <br/>
 
-## ⚡️ Hack de Docker ⚡️
+## ⚡️ Hack Docker ⚡️
 
 <br />
 <br />
