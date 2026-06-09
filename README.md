@@ -80,7 +80,8 @@ docker run -d -p 3000:80 --name hacker-1-server hacker-1-from-image:v1
 ##SOLUCION
 <br />
 <img width="968" height="672" alt="docker_1" src="https://github.com/user-attachments/assets/27be3356-d508-4160-bf68-cbe0fbce2101" />
-
+<br />
+<img width="665" height="209" alt="docker_1_1" src="https://github.com/user-attachments/assets/eee56c04-60b7-4c18-a705-465a3e898da6" />
 
 ## 🏆 H-2 (usar apt con el estilo correcto en docker)
 
@@ -151,6 +152,8 @@ docker run -d -p 5000:80 --name hacker-2-server hacker-2-apt:v1
 ##SOLUCION
 <br />
 <img width="755" height="547" alt="docker_2" src="https://github.com/user-attachments/assets/9431d730-3bf3-4fc3-8884-19947a90e959" />
+<br />
+<img width="662" height="212" alt="docker_2_1" src="https://github.com/user-attachments/assets/dffd7cdf-96a7-4bad-81ea-d50ce7b64f29" />
 
 
 ## 🏆 H-3 (Usuario no root)
@@ -274,6 +277,9 @@ docker run -d -p 8080:8080 --name hacker-3-server hacker-3-no-root:v1
 ##SOLUCION 
 <br />
 <img width="484" height="478" alt="docker_3" src="https://github.com/user-attachments/assets/bc4371a6-217e-431e-827e-10240c24c313" />
+<br />
+<img width="617" height="334" alt="docker_3_1" src="https://github.com/user-attachments/assets/a04f3ed4-3ad5-44c0-836c-160a427718e4" />
+
 
 
 
